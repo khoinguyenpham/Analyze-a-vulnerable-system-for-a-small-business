@@ -18,3 +18,15 @@ Vulnerability assessments typically include a description of the system being ev
 +System Description highlights the relevant components, architecture, and dependencies of the system being assessed. All of these parts and connections make up the attack surface of the vulnerable information system.
 
 +Scope specifies the focus and boundaries of the assessment. For example, you might specify that the scope of this assessment only relates to the confidentiality, availability, and integrity of the data on the server—not the physical security of the server or its related IT systems.
+### Part 2: Perform a risk assessment
+Step 1: Explain the purpose of the information system
+
+Step 2: Identify potential threat sources
+
+Step 3: Identify potential threat events
+
+Step 4: Calculate the risk assessment of potential threats
+### Part 3: Propose security recommendations:
+-Explain my approach
+
+-Propose a remediation strategy

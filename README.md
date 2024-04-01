@@ -10,3 +10,15 @@ I must create a written report that clearly explains how the vulnerable server i
 
 ## Step-By-Step Instructions
 
+### Step 1: Prepare report form and related materials.
+
+Using template: and the NIST Framework.
+
+### Step 2: Review information about vulnerable server
+
+Vulnerability assessments typically include a description of the system being evaluated and the scope of the project.
+
+The System Description highlights the relevant components, architecture, and dependencies of the system being assessed. All of these parts and connections make up the attack surface of the vulnerable information system.
+
+The Scope specifies the focus and boundaries of the assessment. For example, you might specify that the scope of this assessment only relates to the confidentiality, availability, and integrity of the data on the server—not the physical security of the server or its related IT systems.
+

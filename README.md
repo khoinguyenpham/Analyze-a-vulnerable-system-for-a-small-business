@@ -7,7 +7,7 @@ I am a newly hired cybersecurity analyst for an e-commerce company. The company 
 ## Target
 I must create a written report that clearly explains how the vulnerable server is a risk to business operations and how it can be secured.
 
-## Step-By-Step Instructions
+## Step by step instructions
 ### Part 1: Preparation
 1. Prepare NIST framework material
 

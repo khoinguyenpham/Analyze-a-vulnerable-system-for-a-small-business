@@ -10,11 +10,13 @@ I must create a written report that clearly explains how the vulnerable server i
 
 ## Step-By-Step Instructions
 
-### Step 1: Prepare report form and related materials.
+### Step 1: Preparation
 
-Using template: and the NIST Framework.
+#### Related materials
 
-### Step 2: Review information about vulnerable server
+NIST Framework: NIST
+
+#### Review information about vulnerable server
 
 Vulnerability assessments typically include a description of the system being evaluated and the scope of the project.
 

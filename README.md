@@ -14,7 +14,7 @@ I must create a written report that clearly explains how the vulnerable server i
 
 #### Related materials
 
-NIST Framework: NIST
+NIST Framework: NIST SP 800-30
 
 #### Review information about vulnerable server
 

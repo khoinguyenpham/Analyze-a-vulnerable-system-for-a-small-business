@@ -32,24 +32,22 @@ An organized group of unethical hackers left a ransom note stating that the comp
 
 Use the incident handler's journal to document your first journal entry about the given scenario. Ensure that you fill in all of the fields:
 
-In the Date section, record the date of your journal entry. This should be the actual date that you record the entry, not a fictional date.
+=== In the Date section, record the date of your journal entry. This should be the actual date that you record the entry, not a fictional date.
 
-In the Entry section, provide a journal entry number. For example, if it is your first journal entry, enter 1.
+=== In the Entry section, provide a journal entry number. For example, if it is your first journal entry, enter 1.
 
-In the Description section, provide a description about the entry.
+=== In the Description section, provide a description about the entry.
 
-In the Tool(s) used section, if any cybersecurity tools were used, list them here. 
+=== In the Tool(s) used section, if any cybersecurity tools were used, list them here. 
 
-In the The 5 W's section, record the details about the given scenario.
+=== In the The 5 W's section, record the details about the given scenario.
 
-Who caused the incident?
+=*=*= Who caused the incident?
 
-What happened?
+=*=*= What happened?
 
-When did the incident occur?
+=*=*= When did the incident occur?
 
-Where did the incident happen?
+=*=*= Where did the incident happen?
 
-Why did the incident happen?
-
-In the Additional notes row, record any thoughts or questions you have about the given scenario.
+=*=*= Why did the incident happen?

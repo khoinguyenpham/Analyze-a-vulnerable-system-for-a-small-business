@@ -42,7 +42,7 @@ Use the incident handler's journal to document your first journal entry about th
 
 === In the The 5 W's section, record the details about the given scenario.
 
-=*=*= Who caused the incident?
+=_=_= Who caused the incident?
 
 =*=*= What happened?
 

@@ -16,4 +16,4 @@ In this project, I will use Linux commands to manage file permissions by checkin
 
 # 5. Document an incident with an incident handler's journal
 
-In this project, I can record information about the experiences you will have analyzing security incident scenarios through the course activities. 
+In this project, I can record information about the experiences I will have analyzing security incident scenarios through the course activities. 

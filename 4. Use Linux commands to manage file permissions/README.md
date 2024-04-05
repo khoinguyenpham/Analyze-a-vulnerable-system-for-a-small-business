@@ -1,4 +1,6 @@
-# 4. In this project, I will use Linux commands to manage file permissions by checking permissions for files in a directory, checking for incorrect file permissions and changing permissions as needed, as well as removing unauthorized access to a directory.
+# 4. Use Linux commands to manage file permissions
+
+In this project, I will use Linux commands to manage file permissions by checking permissions for files in a directory, checking for incorrect file permissions and changing permissions as needed, as well as removing unauthorized access to a directory.
 
 ## Scenario
 

@@ -12,8 +12,8 @@ In this project, I will use the knowledge you’ve gained about networks through
 
 # 4. Use Linux commands to manage file permissions
 
-In this project, you will use Linux commands to manage file permissions by checking permissions for files in a directory, checking for incorrect file permissions and changing permissions as needed, as well as removing unauthorized access to a directory.
+In this project, I will use Linux commands to manage file permissions by checking permissions for files in a directory, checking for incorrect file permissions and changing permissions as needed, as well as removing unauthorized access to a directory.
 
 # 5. Document an incident with an incident handler's journal
 
-In this project, you can apply your documentation skills using your incident handler's journal. With this journal, you can record information about the experiences you will have analyzing security incident scenarios through the course activities. 
+In this project, I can record information about the experiences you will have analyzing security incident scenarios through the course activities. 

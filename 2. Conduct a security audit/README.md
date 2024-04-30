@@ -34,6 +34,4 @@ The bullet points under “Additional comments” in the Risk assessment section
 
 3. Then, review the question in the controls and compliance sections of the checklist and select “yes” or “no” to answer the question in each section.
 
-### Step 3: Assess your activity
 
-The following is a self-assessment for your controls and compliance checklist. You will use these statements to review your own work. The self-assessment process is an important part of the learning experience because it allows you to objectively assess your security audit.
